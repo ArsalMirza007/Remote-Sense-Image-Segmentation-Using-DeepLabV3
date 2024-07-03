@@ -1,0 +1,3 @@
+Upload dataset to Google Drive, ensuring it is organized into the appropriate directories for semantic and instance masks. Once uploaded, mount your Google Drive in Google Colab using the `drive.mount('/content/drive')` command to access the dataset directly from Colab. This allows seamless data loading and preprocessing for training and validation of the segmentation model.
+
+Due to greater than 25 MB size dataset is not attaching with the zip but it can be downloaded by accessing the drive link given in the dataset folder of the zip file.
